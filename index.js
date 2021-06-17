@@ -1,2 +1,2 @@
-  import {add} from "./adds.js";
+  import {add} from "https://raw.githubusercontent.com/Liftoff-KA/Testing/main/adds.js";
 
