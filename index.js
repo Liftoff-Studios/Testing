@@ -1,2 +1,2 @@
-  import * from "./adds.js";
+  import {add} from "./adds.js";
 
