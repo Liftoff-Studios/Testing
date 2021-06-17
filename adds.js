@@ -1,2 +1,2 @@
-const add = (x,y) => x+y;
-export{ add};
+var add = (x,y) => x+y;
+export{add};
