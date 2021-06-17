@@ -1,4 +1,2 @@
-
-  import * from "./adds.js"
-  alert(add(9,1))
+  import * from "./adds.js";
 
