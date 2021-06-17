@@ -1,2 +1,2 @@
-var add = (x,y) => x+y;
+var add = (x,y) => {return x+y;};
 export{add};
